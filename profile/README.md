@@ -70,20 +70,16 @@ Have questions? Reach out!
 
 ---
 
-![Image](https://github.com/user-attachments/assets/e2414ba6-360f-4903-8852-0440f302984a)
-![Image](https://github.com/user-attachments/assets/79c44994-8ef6-4151-8b8f-2e9e8977f43b)
-![Image](https://github.com/user-attachments/assets/07e3a77c-b48c-4d9b-afc1-8b826e3fdb5e)
-![Image](https://github.com/user-attachments/assets/e3db8d85-cd9f-479e-9c33-ce82996790f5)
-![Image](https://github.com/user-attachments/assets/08cb9a09-a5af-4edb-a5bb-d92d6667201a)
-![Image](https://github.com/user-attachments/assets/699a0936-6068-407d-89d2-0970c400bf6e)
-![Image](https://github.com/user-attachments/assets/16e1a180-1e18-4629-b358-7d165cafd375)
-![Image](https://github.com/user-attachments/assets/3466f6ad-778a-4786-8fcd-153d1491350b)
-![Image](https://github.com/user-attachments/assets/ec1a7726-486f-4a49-b2cf-803ae902e8f5)
-
-![Image](https://github.com/user-attachments/assets/920d6e18-3778-4c96-9be7-678d5eaf75bf)
-
-![Image](https://github.com/user-attachments/assets/7ac3f8df-5077-44ee-acb7-95242da51b7d)
-![Image](https://github.com/user-attachments/assets/82d48654-eb6f-4de0-8a2d-d06740ea3fcf)
+<img width="954" alt="Image" src="https://github.com/user-attachments/assets/d0ea5991-4e2e-45ef-a926-4a991baf767e" />
+<img width="952" alt="Image" src="https://github.com/user-attachments/assets/4551f9d6-373a-4084-b8a1-44ab5b28c3f2" />
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/aa46aef8-4b61-43bb-b422-a15ef578ebf0" />
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e2f65ed2-bbf0-4d9d-bb73-57f669214466" />
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/0518a613-d84b-4f82-98b2-ac51a01d82b8" />
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/711de0b6-72a2-4a57-829d-2e0edf20211b" />
+<img width="951" alt="Image" src="https://github.com/user-attachments/assets/5f78fc64-f5ba-4e8c-9d8f-3a63b15038aa" />
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/67aaaefd-d0ff-49dd-8fa3-eb3799085d22" />
+<img width="955" alt="Image" src="https://github.com/user-attachments/assets/7fdfd58e-bf90-41e9-83fa-7ed7bb78dc99" />
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/7efca2e4-c52a-441c-bfb8-ff7d73bdee26" />
 
 ## Acknowledgments
 A huge thanks to [list supporters, e.g., "our contributors", "open-source community", "sponsors"] for making this possible!
