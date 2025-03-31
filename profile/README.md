@@ -70,6 +70,21 @@ Have questions? Reach out!
 
 ---
 
+![Image](https://github.com/user-attachments/assets/e2414ba6-360f-4903-8852-0440f302984a)
+![Image](https://github.com/user-attachments/assets/79c44994-8ef6-4151-8b8f-2e9e8977f43b)
+![Image](https://github.com/user-attachments/assets/07e3a77c-b48c-4d9b-afc1-8b826e3fdb5e)
+![Image](https://github.com/user-attachments/assets/e3db8d85-cd9f-479e-9c33-ce82996790f5)
+![Image](https://github.com/user-attachments/assets/08cb9a09-a5af-4edb-a5bb-d92d6667201a)
+![Image](https://github.com/user-attachments/assets/699a0936-6068-407d-89d2-0970c400bf6e)
+![Image](https://github.com/user-attachments/assets/16e1a180-1e18-4629-b358-7d165cafd375)
+![Image](https://github.com/user-attachments/assets/3466f6ad-778a-4786-8fcd-153d1491350b)
+![Image](https://github.com/user-attachments/assets/ec1a7726-486f-4a49-b2cf-803ae902e8f5)
+
+![Image](https://github.com/user-attachments/assets/920d6e18-3778-4c96-9be7-678d5eaf75bf)
+
+![Image](https://github.com/user-attachments/assets/7ac3f8df-5077-44ee-acb7-95242da51b7d)
+![Image](https://github.com/user-attachments/assets/82d48654-eb6f-4de0-8a2d-d06740ea3fcf)
+
 ## Acknowledgments
 A huge thanks to [list supporters, e.g., "our contributors", "open-source community", "sponsors"] for making this possible!
 
