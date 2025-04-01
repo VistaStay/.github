@@ -151,8 +151,18 @@ For details, check our [Contribution Guidelines](https://github.com/your-org/Vis
 
 ## 📬 Contact
 📧 **Email:** [your-email@vistastay.com](mailto:your-email@vistastay.com)  
-💬 **Discord:** [Join Our Community](https://discord.gg/your-invite)  
-🐦 **Twitter:** [Follow us](https://twitter.com/VistaStay)  
+
 
 ## 🎉 Acknowledgments
 A huge thanks to our **team, contributors, and users** for making VistaStay a success! 🚀🎊  
+
+<img width="954" alt="Image" src="https://github.com/user-attachments/assets/d0ea5991-4e2e-45ef-a926-4a991baf767e" />
+<img width="952" alt="Image" src="https://github.com/user-attachments/assets/4551f9d6-373a-4084-b8a1-44ab5b28c3f2" />
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/aa46aef8-4b61-43bb-b422-a15ef578ebf0" />
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e2f65ed2-bbf0-4d9d-bb73-57f669214466" />
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/0518a613-d84b-4f82-98b2-ac51a01d82b8" />
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/711de0b6-72a2-4a57-829d-2e0edf20211b" />
+<img width="951" alt="Image" src="https://github.com/user-attachments/assets/5f78fc64-f5ba-4e8c-9d8f-3a63b15038aa" />
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/67aaaefd-d0ff-49dd-8fa3-eb3799085d22" />
+<img width="955" alt="Image" src="https://github.com/user-attachments/assets/7fdfd58e-bf90-41e9-83fa-7ed7bb78dc99" />
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/7efca2e4-c52a-441c-bfb8-ff7d73bdee26" />
