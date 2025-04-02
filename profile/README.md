@@ -54,36 +54,7 @@ npm run dev
 - **Secure user authentication** via **Clerk API**  
 - **JWT-based authorization** for protected routes  
 - **User roles** - Admin, Hotel Owner, Customer  
-#### **Login API**
-```sh
-POST /api/auth/login
-```
-- **Request Body**  
-```json
-{
-  "email": "user@example.com",
-  "password": "password123"
-}
-```
-- **Response**  
-```json
-{
-  "token": "jwt_token_here",
-  "user": { "id": "user_id", "role": "customer" }
-}
-```
-#### **Register API**
-```sh
-POST /api/auth/register
-```
-- **Request Body**  
-```json
-{
-  "name": "John Doe",
-  "email": "john@example.com",
-  "password": "securepassword"
-}
-```
+
 
 ### **State Management (Redux Toolkit)**
 Used for **global state handling** across the app.  
@@ -91,18 +62,7 @@ Used for **global state handling** across the app.
 - **Hotel List & Filters State**  
 - **Booking State**  
 - **Payment Process State**  
-#### **Redux Store Setup**
-```js
-import { configureStore } from '@reduxjs/toolkit';
-import authReducer from './features/authSlice';
-import hotelReducer from './features/hotelSlice';
-export const store = configureStore({
-  reducer: {
-    auth: authReducer,
-    hotel: hotelReducer,
-  },
-});
-```
+
 
 ## 💳 Stripe Payment Integration
 ### **Checkout Process**
@@ -114,14 +74,7 @@ export const store = configureStore({
 ```sh
 POST /api/payment
 ```
-- **Request Body**  
-```json
-{
-  "userId": "user123",
-  "amount": 200,
-  "currency": "USD"
-}
-```
+
 
 ## 📜 API Endpoints
 ### 🔹 Hotels
@@ -140,29 +93,43 @@ POST /api/payment
 ### 🔹 Payments
 - `POST /api/payment` - Process payment via **Stripe**  
 
-## 🛠️ Contributing
-We welcome contributions! Please follow these steps:  
-1. **Fork the repository**  
-2. **Create a new branch** (`feature-name`)  
-3. **Commit your changes**  
-4. **Push the branch**  
-5. **Open a pull request**  
-For details, check our [Contribution Guidelines](https://github.com/your-org/VistaStay/blob/main/CONTRIBUTING.md).  
+
 
 ## 📬 Contact
 📧 **Email:** [your-email@vistastay.com](mailto:your-email@vistastay.com)  
 
 
-## 🎉 Acknowledgments
-A huge thanks to our **team, contributors, and users** for making VistaStay a success! 🚀🎊  
+## 🎉 Pages
 
-<img width="954" alt="Image" src="https://github.com/user-attachments/assets/d0ea5991-4e2e-45ef-a926-4a991baf767e" />
-<img width="952" alt="Image" src="https://github.com/user-attachments/assets/4551f9d6-373a-4084-b8a1-44ab5b28c3f2" />
-<img width="959" alt="Image" src="https://github.com/user-attachments/assets/aa46aef8-4b61-43bb-b422-a15ef578ebf0" />
-<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e2f65ed2-bbf0-4d9d-bb73-57f669214466" />
-<img width="950" alt="Image" src="https://github.com/user-attachments/assets/0518a613-d84b-4f82-98b2-ac51a01d82b8" />
-<img width="958" alt="Image" src="https://github.com/user-attachments/assets/711de0b6-72a2-4a57-829d-2e0edf20211b" />
-<img width="951" alt="Image" src="https://github.com/user-attachments/assets/5f78fc64-f5ba-4e8c-9d8f-3a63b15038aa" />
+### 🔹 Homepage
 <img width="950" alt="Image" src="https://github.com/user-attachments/assets/67aaaefd-d0ff-49dd-8fa3-eb3799085d22" />
+
+### 🔹 Trending hotels(AI search filtering section)
+<img width="952" alt="Image" src="https://github.com/user-attachments/assets/4551f9d6-373a-4084-b8a1-44ab5b28c3f2" />
+
+### 🔹 AI search
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/aa46aef8-4b61-43bb-b422-a15ef578ebf0" />
+
+### 🔹 Booking hotels with dates
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e2f65ed2-bbf0-4d9d-bb73-57f669214466" />
+
+### 🔹 Payment page
+<img width="954" alt="Image" src="https://github.com/user-attachments/assets/d0ea5991-4e2e-45ef-a926-4a991baf767e" />
+
+### 🔹 Create hotel
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/0518a613-d84b-4f82-98b2-ac51a01d82b8" />
+
+### 🔹 filtering hotel section
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/711de0b6-72a2-4a57-829d-2e0edf20211b" />
+
+### 🔹 filtered hotel
+<img width="951" alt="Image" src="https://github.com/user-attachments/assets/5f78fc64-f5ba-4e8c-9d8f-3a63b15038aa" />
+
+### 🔹 Booking page
 <img width="955" alt="Image" src="https://github.com/user-attachments/assets/7fdfd58e-bf90-41e9-83fa-7ed7bb78dc99" />
+
+### 🔹 Filters
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/7efca2e4-c52a-441c-bfb8-ff7d73bdee26" />
+
+### 🔹 Payment page
+<img width="954" alt="Image" src="https://github.com/user-attachments/assets/d0ea5991-4e2e-45ef-a926-4a991baf767e" />
